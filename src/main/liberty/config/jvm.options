@@ -1,0 +1,2 @@
+# Load Javametrics Java agent
+-javaagent:<path_to_javametrics_agent_dir>/javametrics-agent-1.5.2.jar
